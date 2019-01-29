@@ -1,0 +1,4 @@
+#Tue Jan 29 10:10:26 ART 2019
+base.0=/home/martin/billmobilefrontend/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
