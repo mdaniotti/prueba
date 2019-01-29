@@ -1,4 +1,4 @@
-#Tue Jan 29 10:10:26 ART 2019
-base.0=/home/martin/billmobilefrontend/android/app/build/intermediates/transforms/dexMerger/debug/0
-renamed.0=classes.dex
+#Tue Jan 29 12:56:16 ART 2019
+base.0=/home/agustin/Documentos/AsisVirtualContadores/prueba/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
+renamed.0=classes.dex
